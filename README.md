@@ -60,4 +60,5 @@ Both the Feature Extraction model and the Fine-Tuned model were evaluated on uns
 3. Run the Jupyter Notebook `Final Proj-Classify Waste Products Using TL FT.ipynb` to see the step-by-step implementation.
 
 ## 👨‍💻 Author
-**Shali Khalil** ([@shaleekhalil-dev](https://github.com/shaleekhalil-dev))
+**Shalee Khalil** ([@shaleekhalil-dev](https://github.com/shaleekhalil-dev))
+شعلي 
